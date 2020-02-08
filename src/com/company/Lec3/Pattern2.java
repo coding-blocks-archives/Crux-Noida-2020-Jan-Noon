@@ -1,9 +1,9 @@
-package com.company.Lec1;
+package com.company.Lec3;
 
 
 import java.util.Scanner;
 
-public class Pattern {
+public class Pattern2 {
 
     public static void main(String[] args) {
 
@@ -14,9 +14,16 @@ public class Pattern {
 
         while(row<=n){
 
+            int space=1;
+
+            while(space<=n-row){
+                System.out.print(" ");
+                space=space+1;
+            }
+
             int col=1;
 
-            while(col<=row){
+            while(col<=2*row-1){
                 System.out.print("*");
                 col=col+1;
             }

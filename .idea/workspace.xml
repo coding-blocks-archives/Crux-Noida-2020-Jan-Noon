@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6edc66c4-4175-4d5d-b71f-84ba4d00a892" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec3/Arrayeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec3/Arrayques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec3/ReversalAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec3/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec3/Searching.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec2/Converter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec2/Converter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec2/Swapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec2/Swapping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec2/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec2/Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec1/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec3/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec1/Leapyear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec3/Leapyear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec1/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec3/Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec1/Pattern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec3/Pattern2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec1/loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec3/loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec1/maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec3/maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec2/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec2/Functioneg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Functioneg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec2/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec2/Swapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Swapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec2/ftoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/ftoc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec2/maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec2/pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec3/Arrayeg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec5/Arrayeg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec3/Arrayques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec5/Arrayques.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec3/ReversalAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec5/ReversalAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec3/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec5/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec3/Searching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec5/Searching.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -45,11 +55,11 @@
   </component>
   <component name="RunManager" selected="Application.ReversalAlgo">
     <configuration name="Arrayeg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec3.Arrayeg" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec5.Arrayeg" />
       <module name="Crux_Jan_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec3.*" />
+          <option name="PATTERN" value="com.company.Lec5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,11 +68,11 @@
       </method>
     </configuration>
     <configuration name="Converter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec2.Converter" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec4.Converter" />
       <module name="Crux_Jan_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec2.*" />
+          <option name="PATTERN" value="com.company.Lec4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,11 +81,11 @@
       </method>
     </configuration>
     <configuration name="ReversalAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec3.ReversalAlgo" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec5.ReversalAlgo" />
       <module name="Crux_Jan_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec3.*" />
+          <option name="PATTERN" value="com.company.Lec5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +94,11 @@
       </method>
     </configuration>
     <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec3.Reverse" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec5.Reverse" />
       <module name="Crux_Jan_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec3.*" />
+          <option name="PATTERN" value="com.company.Lec5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +107,11 @@
       </method>
     </configuration>
     <configuration name="Swapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec2.Swapping" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec4.Swapping" />
       <module name="Crux_Jan_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec2.*" />
+          <option name="PATTERN" value="com.company.Lec4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,7 +187,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Lec2/Pattern.java</url>
+          <url>file://$PROJECT_DIR$/src/com/company/Lec4/Pattern.java</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

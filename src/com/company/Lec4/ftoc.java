@@ -1,4 +1,4 @@
-package com.company.Lec2;
+package com.company.Lec4;
 
 import java.util.Scanner;
 
