@@ -17,5 +17,27 @@ public class Searching {
         return -1;
     }
 
+    public static int binary(int ar[],int element){
+        int start=0;
+        int end = ar.length-1;
+
+        while(start<=end){
+
+            int mid= (start+end)/2;
+
+            if(ar[mid]==element){
+                return mid;
+            }
+
+            else if(element>ar[mid]){
+                start=mid+1;
+            }
+            else{
+                end= mid-1;
+            }
+        }
+        return -1;
+    }
+
 
 }
