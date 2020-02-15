@@ -2,29 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6edc66c4-4175-4d5d-b71f-84ba4d00a892" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec6/Arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec6/Inverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec6/MultiArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec6/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec7/BulderIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec7/Stringeg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec1/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec1/Leapyear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec1/Pattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec1/Pattern2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec1/loops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec1/maze.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec2/Converter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec2/Functioneg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec2/Pattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec2/Swapping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec2/ftoc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec2/maze.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec2/pattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec3/Arrayeg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec3/Arrayques.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec3/ReversalAlgo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec3/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec6/MultiArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec6/MultiArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec6/MultiArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec6/MultiArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -64,6 +47,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.Lec6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BulderIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec7.BulderIntro" />
+      <module name="Crux_Jan_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Lec7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,25 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversalAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec5.ReversalAlgo" />
+    <configuration name="Stringeg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec7.Stringeg" />
       <module name="Crux_Jan_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec6.Sorting" />
-      <module name="Crux_Jan_2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Lec6.*" />
+          <option name="PATTERN" value="com.company.Lec7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,19 +107,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReversalAlgo" />
-      <item itemvalue="Application.Sorting" />
       <item itemvalue="Application.Arraylist" />
       <item itemvalue="Application.Inverse" />
       <item itemvalue="Application.MultiArray" />
+      <item itemvalue="Application.Stringeg" />
+      <item itemvalue="Application.BulderIntro" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MultiArray" />
+        <item itemvalue="Application.Stringeg" />
+        <item itemvalue="Application.BulderIntro" />
         <item itemvalue="Application.Inverse" />
         <item itemvalue="Application.Arraylist" />
-        <item itemvalue="Application.Sorting" />
-        <item itemvalue="Application.ReversalAlgo" />
       </list>
     </recent_temporary>
   </component>
@@ -166,26 +149,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1234" height="376" key="GridCell.Tab.0.bottom" timestamp="1581240644268">
+    <state x="131" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581761540546">
       <screen x="67" y="27" width="1213" height="693" />
     </state>
-    <state width="1234" height="376" key="GridCell.Tab.0.bottom/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1581153934835" />
-    <state width="1234" height="376" key="GridCell.Tab.0.bottom/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581240644268" />
-    <state width="1234" height="376" key="GridCell.Tab.0.center" timestamp="1581240644267">
-      <screen x="67" y="27" width="1213" height="693" />
+    <state x="131" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1581761540546" />
+    <state width="1253" height="554" key="GridCell.Tab.0.bottom" timestamp="1581772535913">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1234" height="376" key="GridCell.Tab.0.center/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1581153934834" />
-    <state width="1234" height="376" key="GridCell.Tab.0.center/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581240644267" />
-    <state width="1234" height="376" key="GridCell.Tab.0.left" timestamp="1581240644267">
-      <screen x="67" y="27" width="1213" height="693" />
+    <state width="1167" height="509" key="GridCell.Tab.0.bottom/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1581762781450" />
+    <state width="1234" height="376" key="GridCell.Tab.0.bottom/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581241969724" />
+    <state width="1253" height="554" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1581772535913" />
+    <state width="1253" height="554" key="GridCell.Tab.0.center" timestamp="1581772535913">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1234" height="376" key="GridCell.Tab.0.left/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1581153934834" />
-    <state width="1234" height="376" key="GridCell.Tab.0.left/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581240644267" />
-    <state width="1234" height="376" key="GridCell.Tab.0.right" timestamp="1581240644268">
-      <screen x="67" y="27" width="1213" height="693" />
+    <state width="1167" height="509" key="GridCell.Tab.0.center/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1581762781449" />
+    <state width="1234" height="376" key="GridCell.Tab.0.center/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581241969724" />
+    <state width="1253" height="554" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1581772535913" />
+    <state width="1253" height="554" key="GridCell.Tab.0.left" timestamp="1581772535913">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1234" height="376" key="GridCell.Tab.0.right/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1581153934835" />
-    <state width="1234" height="376" key="GridCell.Tab.0.right/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581240644268" />
+    <state width="1167" height="509" key="GridCell.Tab.0.left/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1581762781448" />
+    <state width="1234" height="376" key="GridCell.Tab.0.left/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581241969724" />
+    <state width="1253" height="554" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1581772535913" />
+    <state width="1253" height="554" key="GridCell.Tab.0.right" timestamp="1581772535913">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1167" height="509" key="GridCell.Tab.0.right/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1581762781450" />
+    <state width="1234" height="376" key="GridCell.Tab.0.right/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581241969724" />
+    <state width="1253" height="554" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1581772535913" />
     <state width="1234" height="231" key="GridCell.Tab.1.bottom" timestamp="1581235485772">
       <screen x="67" y="27" width="1213" height="693" />
     </state>
@@ -202,10 +193,18 @@
       <screen x="67" y="27" width="1213" height="693" />
     </state>
     <state width="1234" height="231" key="GridCell.Tab.1.right/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581235485771" />
+    <state x="162" y="27" width="1012" height="693" key="SettingsEditor" timestamp="1581761508538">
+      <screen x="67" y="27" width="1213" height="693" />
+    </state>
+    <state x="162" y="27" width="1012" height="693" key="SettingsEditor/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1581761508538" />
     <state x="329" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1581233043982">
       <screen x="67" y="27" width="1213" height="693" />
     </state>
     <state x="329" y="200" key="com.intellij.ide.util.TipDialog/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581233043982" />
+    <state x="67" y="27" width="1203" height="693" key="new project wizard" timestamp="1581668508838">
+      <screen x="67" y="27" width="1213" height="693" />
+    </state>
+    <state x="67" y="27" width="1203" height="693" key="new project wizard/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581668508838" />
     <state x="304" y="149" key="run.anything.popup" timestamp="1580631497314">
       <screen x="67" y="27" width="1213" height="693" />
     </state>
