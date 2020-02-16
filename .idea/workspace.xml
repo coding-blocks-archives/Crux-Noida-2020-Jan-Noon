@@ -108,11 +108,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MultiArray" />
-      <item itemvalue="Application.Stringeg" />
       <item itemvalue="Application.BulderIntro (1)" />
-      <item itemvalue="Application.Recursionlearn" />
+      <item itemvalue="Application.MultiArray" />
       <item itemvalue="Application.RecursionEg" />
+      <item itemvalue="Application.Recursionlearn" />
+      <item itemvalue="Application.Stringeg" />
     </list>
     <recent_temporary>
       <list>
@@ -202,10 +202,11 @@
       <screen x="67" y="27" width="1213" height="693" />
     </state>
     <state x="162" y="27" width="1012" height="693" key="SettingsEditor/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1581761508538" />
-    <state x="329" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1581233043982">
-      <screen x="67" y="27" width="1213" height="693" />
+    <state x="348" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1581847611769">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="329" y="200" key="com.intellij.ide.util.TipDialog/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581233043982" />
+    <state x="348" y="212" key="com.intellij.ide.util.TipDialog/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1581847611769" />
     <state x="67" y="27" width="1203" height="693" key="new project wizard" timestamp="1581668508838">
       <screen x="67" y="27" width="1213" height="693" />
     </state>
