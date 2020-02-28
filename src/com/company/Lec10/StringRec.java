@@ -3,9 +3,9 @@ package com.company.Lec10;
 public class StringRec {
 
     public static void main(String[] args) {
-//        subsequence("","abc");
-//        skipi("","hihihi");
-//        dice("",4);
+        subsequence("","abc");
+        skipi("","hihihi");
+        dice("",4);
           numpad("","19");
     }
 
