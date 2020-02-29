@@ -2,11 +2,11 @@ package com.company.Lec11;
 
 import java.util.ArrayList;
 
-public class Mazepath {
-
+public class MazePath {
     public static void main(String[] args) {
-        mazepath(3,3,"");
-        mazepathcount(3,3,"");
+//        mazepath(3,3,"");
+        System.out.println(mazepathcount(3,3));
+        System.out.println(mazepathlist(3,3,""));
     }
 
     public static void mazepath(int row,int col,String processed){
@@ -25,21 +25,20 @@ public class Mazepath {
         }
     }
 
-    public static int mazepathcount(int row,int col,String processed){
+    public static int mazepathcount(int row,int col){
 
         if(row==1 && col==1){
-            System.out.println(processed);
             return 1;
         }
 
         int cnt=0;
 
         if(row>1){
-          cnt+= mazepathcount(row-1,col,processed+"V");
+            cnt+= mazepathcount(row-1,col);
         }
 
         if(col>1){
-           cnt+= mazepathcount(row,col-1,processed+"H");
+            cnt+= mazepathcount(row,col-1);
         }
 
         return cnt;

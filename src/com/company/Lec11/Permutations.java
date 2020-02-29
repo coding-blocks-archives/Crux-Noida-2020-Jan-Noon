@@ -24,6 +24,4 @@ public class Permutations {
             permutation(first+ch+second,unprocessed);
         }
     }
-
-
 }

@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6edc66c4-4175-4d5d-b71f-84ba4d00a892" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec11/MazePath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec10/StringRec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec10/StringRec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec10/StringRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec10/StringRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec4/Pattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec4/Pattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec11/Mazepath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec11/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec11/Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec11/Queen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,24 +35,29 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/Lec11" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.Lec11" />
       <recent name="com.company.Lec8" />
       <recent name="com.company.Lec9" />
       <recent name="com.company.Lec7" />
       <recent name="com.company" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company/Lec11" />
+      <recent name="$PROJECT_DIR$/src/com/company" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec3.Fibonacci" />
+  <component name="RunManager" selected="Application.Permutations">
+    <configuration name="MazePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec11.MazePath" />
       <module name="Crux_Jan_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec3.*" />
+          <option name="PATTERN" value="com.company.Lec11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +65,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursionEg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec8.RecursionEg" />
+    <configuration name="Mazepath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec11.Mazepath" />
       <module name="Crux_Jan_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec8.*" />
+          <option name="PATTERN" value="com.company.Lec11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec11.Permutations" />
+      <module name="Crux_Jan_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Lec11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec11.Queen" />
+      <module name="Crux_Jan_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Lec11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,38 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursioneg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec9.Recursioneg" />
+    <configuration name="hi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec11.hi" />
       <module name="Crux_Jan_2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Recursionlearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec8.Recursionlearn" />
-      <module name="Crux_Jan_2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Lec8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec10.StringRec" />
-      <module name="Crux_Jan_2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Lec10.*" />
+          <option name="PATTERN" value="com.company.Lec11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,19 +131,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RecursionEg" />
-      <item itemvalue="Application.Recursioneg" />
-      <item itemvalue="Application.Recursionlearn" />
-      <item itemvalue="Application.StringRec" />
-      <item itemvalue="Application.Fibonacci" />
+      <item itemvalue="Application.Mazepath" />
+      <item itemvalue="Application.Permutations" />
+      <item itemvalue="Application.hi" />
+      <item itemvalue="Application.MazePath" />
+      <item itemvalue="Application.Queen" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.StringRec" />
-        <item itemvalue="Application.Recursioneg" />
-        <item itemvalue="Application.RecursionEg" />
-        <item itemvalue="Application.Recursionlearn" />
+        <item itemvalue="Application.Permutations" />
+        <item itemvalue="Application.Queen" />
+        <item itemvalue="Application.MazePath" />
+        <item itemvalue="Application.Mazepath" />
+        <item itemvalue="Application.hi" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +173,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="458" y="224" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582998919035">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="224" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582998919035" />
     <state x="131" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581761540546">
       <screen x="67" y="27" width="1213" height="693" />
     </state>
@@ -172,33 +185,41 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="417" y="201" width="588" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1582384405941" />
-    <state width="1253" height="552" key="GridCell.Tab.0.bottom" timestamp="1582458178461">
-      <screen x="67" y="27" width="1299" height="741" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1582999020435">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582999020435" />
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1582998243111" />
     <state width="1167" height="507" key="GridCell.Tab.0.bottom/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582452774550" />
     <state width="1234" height="376" key="GridCell.Tab.0.bottom/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581241969724" />
     <state width="1234" height="581" key="GridCell.Tab.0.bottom/67.27.1213.693@67.27.1213.693" timestamp="1582447612094" />
     <state width="1253" height="552" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1582458178461" />
     <state width="1253" height="553" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582384421446" />
-    <state width="1253" height="552" key="GridCell.Tab.0.center" timestamp="1582458178460">
-      <screen x="67" y="27" width="1299" height="741" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1582999020434">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582999020434" />
+    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1582998243109" />
     <state width="1167" height="507" key="GridCell.Tab.0.center/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582452774550" />
     <state width="1234" height="376" key="GridCell.Tab.0.center/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581241969724" />
     <state width="1234" height="581" key="GridCell.Tab.0.center/67.27.1213.693@67.27.1213.693" timestamp="1582447612092" />
     <state width="1253" height="552" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1582458178460" />
     <state width="1253" height="553" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582384421445" />
-    <state width="1253" height="552" key="GridCell.Tab.0.left" timestamp="1582458178459">
-      <screen x="67" y="27" width="1299" height="741" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1582999020433">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582999020433" />
+    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1582998243108" />
     <state width="1167" height="507" key="GridCell.Tab.0.left/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582452774549" />
     <state width="1234" height="376" key="GridCell.Tab.0.left/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581241969724" />
     <state width="1234" height="581" key="GridCell.Tab.0.left/67.27.1213.693@67.27.1213.693" timestamp="1582447612090" />
     <state width="1253" height="552" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.800.600@67.27.1299.741" timestamp="1582458178459" />
     <state width="1253" height="553" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582384421445" />
-    <state width="1253" height="552" key="GridCell.Tab.0.right" timestamp="1582458178461">
-      <screen x="67" y="27" width="1299" height="741" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1582999020434">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582999020434" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1582998243110" />
     <state width="1167" height="507" key="GridCell.Tab.0.right/67.27.1213.693/1366.0.800.600@67.27.1213.693" timestamp="1582452774550" />
     <state width="1234" height="376" key="GridCell.Tab.0.right/67.27.1213.693/67.27.1213.693@67.27.1213.693" timestamp="1581241969724" />
     <state width="1234" height="581" key="GridCell.Tab.0.right/67.27.1213.693@67.27.1213.693" timestamp="1582447612093" />
