@@ -35,7 +35,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/Lec11" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
@@ -131,6 +133,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Recursioneg" />
       <item itemvalue="Application.Mazepath" />
       <item itemvalue="Application.Permutations" />
       <item itemvalue="Application.hi" />
