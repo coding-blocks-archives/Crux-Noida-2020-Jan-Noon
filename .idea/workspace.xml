@@ -2,53 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb89bbc9-bced-408d-a329-685ba138dc19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Crux-Noida-2020-Jan-Noon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec13_14/Bitmasking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec13_14/Magicno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec13_14/Unique_no2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec13_14/setbitcount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec12/LexoPermute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec12/Nqueens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec10/StringRec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec11/MazePath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec11/Permutations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec11/Queen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec3/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec3/Leapyear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec3/Pattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec3/Pattern2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec3/loops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec3/maze.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec4/Converter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec4/Functioneg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec4/Pattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec4/Swapping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec4/ftoc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec4/maze.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec5/Arrayeg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec5/Arrayques.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec5/ReversalAlgo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec5/Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec5/Searching.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec6/Arraylist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec6/Inverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec6/MultiArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec6/Sorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec7/BulderIntro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec7/MultiArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec7/Stringeg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec8/BulderIntro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec8/RecursionEg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec8/Recursionlearn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux_Jan_2020/com/company/Lec9/Recursioneg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec2/2. Programming Fundamentals.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec2/2. Programming Fundamentals.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,13 +33,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Bitmasking">
+  <component name="RunManager" selected="Application.Nqueens">
     <configuration name="Bitmasking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Lec13_14.Bitmasking" />
       <module name="Crux-Noida-2020-Jan-Noon" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.Lec13_14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LexoPermute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec12.LexoPermute" />
+      <module name="Crux-Noida-2020-Jan-Noon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Lec12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unique_no2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec13_14.Unique_no2" />
+    <configuration name="Nqueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec12.Nqueens" />
       <module name="Crux-Noida-2020-Jan-Noon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec13_14.*" />
+          <option name="PATTERN" value="com.company.Lec12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,10 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Nqueens" />
+        <item itemvalue="Application.LexoPermute" />
         <item itemvalue="Application.Bitmasking" />
         <item itemvalue="Application.Magicno" />
         <item itemvalue="Application.setbitcount" />
-        <item itemvalue="Application.Unique_no2" />
       </list>
     </recent_temporary>
   </component>
@@ -157,25 +127,25 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="398" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.801@0.23.1440.801" timestamp="1584298165701" />
-    <state width="1400" height="245" key="GridCell.Tab.0.bottom" timestamp="1584298049002">
+    <state width="1400" height="245" key="GridCell.Tab.0.bottom" timestamp="1584299370573">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1400" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584297390966" />
-    <state width="1400" height="245" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584298049002" />
-    <state width="1400" height="245" key="GridCell.Tab.0.center" timestamp="1584298049000">
+    <state width="1400" height="245" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584299370573" />
+    <state width="1400" height="245" key="GridCell.Tab.0.center" timestamp="1584299370572">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1400" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584297390965" />
-    <state width="1400" height="245" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584298049000" />
-    <state width="1400" height="245" key="GridCell.Tab.0.left" timestamp="1584298048999">
+    <state width="1400" height="245" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584299370572" />
+    <state width="1400" height="245" key="GridCell.Tab.0.left" timestamp="1584299370571">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1400" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584297390965" />
-    <state width="1400" height="245" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584298048999" />
-    <state width="1400" height="245" key="GridCell.Tab.0.right" timestamp="1584298049001">
+    <state width="1400" height="245" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584299370571" />
+    <state width="1400" height="245" key="GridCell.Tab.0.right" timestamp="1584299370572">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1400" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584297390966" />
-    <state width="1400" height="245" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584298049001" />
+    <state width="1400" height="245" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584299370572" />
   </component>
 </project>
