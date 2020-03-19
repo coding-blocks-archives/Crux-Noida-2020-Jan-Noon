@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb89bbc9-bced-408d-a329-685ba138dc19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec12/LexoPermute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec12/Nqueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec15/Quicksort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" afterDir="false" />
     </list>
@@ -33,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Nqueens">
+  <component name="RunManager" selected="Application.MergeSort">
     <configuration name="Bitmasking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Lec13_14.Bitmasking" />
       <module name="Crux-Noida-2020-Jan-Noon" />
@@ -60,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Magicno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec13_14.Magicno" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec15.MergeSort" />
       <module name="Crux-Noida-2020-Jan-Noon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec13_14.*" />
+          <option name="PATTERN" value="com.company.Lec15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="setbitcount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec13_14.setbitcount" />
+    <configuration name="Quicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec15.Quicksort" />
       <module name="Crux-Noida-2020-Jan-Noon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec13_14.*" />
+          <option name="PATTERN" value="com.company.Lec15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.Quicksort" />
         <item itemvalue="Application.Nqueens" />
         <item itemvalue="Application.LexoPermute" />
         <item itemvalue="Application.Bitmasking" />
-        <item itemvalue="Application.Magicno" />
-        <item itemvalue="Application.setbitcount" />
       </list>
     </recent_temporary>
   </component>
@@ -127,25 +126,25 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="398" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.801@0.23.1440.801" timestamp="1584298165701" />
-    <state width="1400" height="245" key="GridCell.Tab.0.bottom" timestamp="1584299370573">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1400" height="291" key="GridCell.Tab.0.bottom" timestamp="1584617278094">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584297390966" />
-    <state width="1400" height="245" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584299370573" />
-    <state width="1400" height="245" key="GridCell.Tab.0.center" timestamp="1584299370572">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1400" height="291" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584617278094" />
+    <state width="1400" height="245" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584299422233" />
+    <state width="1400" height="291" key="GridCell.Tab.0.center" timestamp="1584617278091">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584297390965" />
-    <state width="1400" height="245" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584299370572" />
-    <state width="1400" height="245" key="GridCell.Tab.0.left" timestamp="1584299370571">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1400" height="291" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584617278091" />
+    <state width="1400" height="245" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584299422230" />
+    <state width="1400" height="291" key="GridCell.Tab.0.left" timestamp="1584617278090">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584297390965" />
-    <state width="1400" height="245" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584299370571" />
-    <state width="1400" height="245" key="GridCell.Tab.0.right" timestamp="1584299370572">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1400" height="291" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584617278090" />
+    <state width="1400" height="245" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584299422230" />
+    <state width="1400" height="291" key="GridCell.Tab.0.right" timestamp="1584617278092">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584297390966" />
-    <state width="1400" height="245" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584299370572" />
+    <state width="1400" height="291" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584617278092" />
+    <state width="1400" height="245" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584299422232" />
   </component>
 </project>
