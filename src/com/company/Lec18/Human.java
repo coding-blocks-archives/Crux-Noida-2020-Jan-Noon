@@ -1,4 +1,4 @@
-package com.company.Lec16;
+package com.company.Lec18;
 
 
 public class Human {
