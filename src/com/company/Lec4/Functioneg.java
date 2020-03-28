@@ -15,11 +15,18 @@ public class Functioneg {
 
         System.out.println(a);
 
-        eg.fun();
+
     }
 
     public static void fun(){
 
         System.out.println("party de");
+    }
+
+    public int  sum(){
+
+        int s= 5+6;
+
+        return s;
     }
 }

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb89bbc9-bced-408d-a329-685ba138dc19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec15/Quicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec16/CHild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec16/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec4/Functioneg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec4/Functioneg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec4/Functioneg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Functioneg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,26 +35,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
-    <configuration name="Bitmasking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec13_14.Bitmasking" />
+  <component name="RunManager" selected="Application.CHild">
+    <configuration name="CHild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec16.CHild" />
       <module name="Crux-Noida-2020-Jan-Noon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec13_14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LexoPermute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec12.LexoPermute" />
-      <module name="Crux-Noida-2020-Jan-Noon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Lec12.*" />
+          <option name="PATTERN" value="com.company.Lec16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nqueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec12.Nqueens" />
+    <configuration name="MultiArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec7.MultiArray" />
       <module name="Crux-Noida-2020-Jan-Noon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec12.*" />
+          <option name="PATTERN" value="com.company.Lec7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,13 +88,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="setbitcount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec13_14.setbitcount" />
+      <module name="Crux-Noida-2020-Jan-Noon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Lec13_14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CHild" />
+        <item itemvalue="Application.setbitcount" />
+        <item itemvalue="Application.MultiArray" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.Quicksort" />
-        <item itemvalue="Application.Nqueens" />
-        <item itemvalue="Application.LexoPermute" />
-        <item itemvalue="Application.Bitmasking" />
       </list>
     </recent_temporary>
   </component>
@@ -126,25 +129,29 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="398" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.801@0.23.1440.801" timestamp="1584298165701" />
-    <state width="1400" height="291" key="GridCell.Tab.0.bottom" timestamp="1584617278094">
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1585400111899">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="291" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584617278094" />
-    <state width="1400" height="245" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584299422233" />
-    <state width="1400" height="291" key="GridCell.Tab.0.center" timestamp="1584617278091">
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1585400111899" />
+    <state width="1400" height="290" key="GridCell.Tab.0.bottom" timestamp="1585398714141">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="291" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584617278091" />
-    <state width="1400" height="245" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584299422230" />
-    <state width="1400" height="291" key="GridCell.Tab.0.left" timestamp="1584617278090">
+    <state width="1400" height="290" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585398714141" />
+    <state width="1400" height="244" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584722545725" />
+    <state width="1400" height="290" key="GridCell.Tab.0.center" timestamp="1585398714140">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="291" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584617278090" />
-    <state width="1400" height="245" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584299422230" />
-    <state width="1400" height="291" key="GridCell.Tab.0.right" timestamp="1584617278092">
+    <state width="1400" height="290" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585398714140" />
+    <state width="1400" height="244" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584722545724" />
+    <state width="1400" height="290" key="GridCell.Tab.0.left" timestamp="1585398714132">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="291" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584617278092" />
-    <state width="1400" height="245" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584299422232" />
+    <state width="1400" height="290" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585398714132" />
+    <state width="1400" height="244" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584722545724" />
+    <state width="1400" height="290" key="GridCell.Tab.0.right" timestamp="1585398714140">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1400" height="290" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585398714140" />
+    <state width="1400" height="244" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584722545724" />
   </component>
 </project>
