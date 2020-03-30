@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb89bbc9-bced-408d-a329-685ba138dc19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec19/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec19/StackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec19/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec19/QueueClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec16/CHild.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec16/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec18/CHild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec18/CHild.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +38,7 @@
       <recent name="$PROJECT_DIR$/src/com/company/Lec16ll" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StackClient">
+  <component name="RunManager" selected="Application.QueueClient">
     <configuration name="CHild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Lec18.CHild" />
       <module name="Crux-Noida-2020-Jan-Noon" />
@@ -55,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec15.MergeSort" />
+    <configuration name="MultiArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec7.MultiArray" />
       <module name="Crux-Noida-2020-Jan-Noon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec15.*" />
+          <option name="PATTERN" value="com.company.Lec7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec7.MultiArray" />
+    <configuration name="QueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec19.QueueClient" />
       <module name="Crux-Noida-2020-Jan-Noon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec7.*" />
+          <option name="PATTERN" value="com.company.Lec19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueClient" />
         <item itemvalue="Application.StackClient" />
         <item itemvalue="Application.CHild" />
         <item itemvalue="Application.setbitcount" />
         <item itemvalue="Application.MultiArray" />
-        <item itemvalue="Application.MergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -135,29 +132,29 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="398" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.801@0.23.1440.801" timestamp="1584298165701" />
-    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1585577445888">
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1585583078943">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1585577445888" />
-    <state width="1400" height="290" key="GridCell.Tab.0.bottom" timestamp="1585581469045">
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1585583078943" />
+    <state width="1400" height="290" key="GridCell.Tab.0.bottom" timestamp="1585583549989">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="290" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585581469045" />
+    <state width="1400" height="290" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585583549989" />
     <state width="1400" height="244" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584722545725" />
-    <state width="1400" height="290" key="GridCell.Tab.0.center" timestamp="1585581469043">
+    <state width="1400" height="290" key="GridCell.Tab.0.center" timestamp="1585583549986">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="290" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585581469043" />
+    <state width="1400" height="290" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585583549986" />
     <state width="1400" height="244" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584722545724" />
-    <state width="1400" height="290" key="GridCell.Tab.0.left" timestamp="1585581469042">
+    <state width="1400" height="290" key="GridCell.Tab.0.left" timestamp="1585583549985">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="290" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585581469042" />
+    <state width="1400" height="290" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585583549985" />
     <state width="1400" height="244" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584722545724" />
-    <state width="1400" height="290" key="GridCell.Tab.0.right" timestamp="1585581469044">
+    <state width="1400" height="290" key="GridCell.Tab.0.right" timestamp="1585583549987">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="290" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585581469044" />
+    <state width="1400" height="290" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585583549987" />
     <state width="1400" height="244" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584722545724" />
   </component>
 </project>
