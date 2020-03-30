@@ -20,6 +20,6 @@ public class CHild {
         Human chetan =new Human("Hawkeye");
         System.out.println(chetan.salary);
 
-
     }
+
 }
