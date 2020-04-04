@@ -8,11 +8,11 @@ public class QueueClient {
 
         for (int i = 1; i <10 ; i++) {
 
-            queue.push(i);
+            queue.enqueue(i);
         }
 
-        System.out.println(queue.pop());
+        System.out.println(queue.dequeue());
 
-        System.out.println(queue.pop());
+        System.out.println(queue.dequeue());
     }
 }

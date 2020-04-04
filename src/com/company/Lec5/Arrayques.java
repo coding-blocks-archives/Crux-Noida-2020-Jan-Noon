@@ -4,7 +4,7 @@ public class Arrayques {
 
     public static void main(String[] args) {
 
-        int ar[] = {5,4,6,9,7,8};
+        int[] ar = {5,4,6,9,7,8};
 
 
     }
@@ -37,7 +37,7 @@ public class Arrayques {
         return maxindex;
     }
 
-    public static void swap(int ar[],int start,int end){
+    public static void swap(int[] ar,int start,int end){
 
         int t= ar[start];
         ar[start]=ar[end];
