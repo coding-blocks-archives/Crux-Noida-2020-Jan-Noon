@@ -2,10 +2,10 @@ package com.company.Lec20;
 
 public class CircularQueue {
 
-    private int[] data;
-    private int front;
-    private int end;
-    private int size=0;
+    protected int[] data;
+    protected int front;
+    protected int end;
+    protected int size=0;
     private int DEFAULT_SIZE=10;
 
     public CircularQueue() {
@@ -27,7 +27,7 @@ public class CircularQueue {
         size++;
     }
 
-    private boolean isFull() {
+    protected boolean isFull() {
         return size==data.length;
     }
 

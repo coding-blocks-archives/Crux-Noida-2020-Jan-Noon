@@ -2,7 +2,6 @@ package com.company.Lec20;
 
 public class OptimizedQueue {
 
-
     private int[] data;
     private int front;
     private int end;

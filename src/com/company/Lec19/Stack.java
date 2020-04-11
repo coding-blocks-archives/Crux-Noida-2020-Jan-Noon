@@ -2,8 +2,8 @@ package com.company.Lec19;
 
 public class Stack {
 
-    private int[] data;
-    private int top;
+    protected int[] data;
+    protected int top;
     private int DEFAULT_SIZE=10;
 
 
@@ -21,7 +21,7 @@ public class Stack {
         data[top++]=element;
     }
 
-    private boolean isFull() {
+    protected boolean isFull() {
         return top==data.length;
     }
 
@@ -37,7 +37,7 @@ public class Stack {
         return temp;
     }
 
-    private boolean isEmpty() {
+    protected boolean isEmpty() {
         return top==0;
     }
 
