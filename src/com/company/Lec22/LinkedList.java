@@ -253,6 +253,56 @@ public class LinkedList {
         return merge(first,second);
     }
 
+    public void odd_even(){
+
+        Node odd_head = null;
+        Node odd_tail = null;
+
+        Node even_head=null;
+        Node even_tail=null;
+
+        Node temp= head;
+
+        while(temp!=null){
+
+            if(temp.value%2!=0){
+
+                if(odd_head==null){
+                    odd_head=temp;
+                    odd_tail=temp;
+                }
+
+                else{
+                    odd_tail.next = temp;
+                    odd_tail=temp;
+                }
+            }
+
+            else{
+                if(even_head==null){
+                    even_head=temp;
+                    even_tail=temp;
+                }
+
+                else{
+                    even_tail.next = temp;
+                    even_tail=temp;
+                }
+            }
+            temp=temp.next;
+
+        }
+
+        odd_tail.next=even_head;
+
+        this.head =odd_head;
+
+        even_tail.next=null;
+
+        this.tail=even_tail;
+
+    }
+
     class Node{
 
         int value;
