@@ -2,26 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb89bbc9-bced-408d-a329-685ba138dc19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec20/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec20/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec20/PetrolEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec21/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec21/DynamicQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec21/DynamicStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec21/ListClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec21/QueueClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec21/StackClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec22/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec22/ListClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec19/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec19/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec20/CircularQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec20/CircularQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec20/OptimizedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec20/OptimizedQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec20/QueueClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec20/QueueClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec19/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec19/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec20/CircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec20/CircularQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec20/OptimizedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec20/OptimizedQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec20/QueueClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec20/QueueClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec22/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec22/LinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec22/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec22/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec22/ListClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec22/ListClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec22/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec22/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec22/ListClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec22/ListClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,25 +141,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1586354874328" />
-    <state width="1400" height="225" key="GridCell.Tab.0.bottom" timestamp="1586602332261">
+    <state width="1400" height="482" key="GridCell.Tab.0.bottom" timestamp="1586701317507">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="225" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586602332261" />
+    <state width="1400" height="482" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586701317507" />
     <state width="1400" height="290" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1586188749633" />
-    <state width="1400" height="225" key="GridCell.Tab.0.center" timestamp="1586602332260">
+    <state width="1400" height="482" key="GridCell.Tab.0.center" timestamp="1586701317505">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="225" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586602332260" />
+    <state width="1400" height="482" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586701317505" />
     <state width="1400" height="290" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1586188749631" />
-    <state width="1400" height="225" key="GridCell.Tab.0.left" timestamp="1586602332259">
+    <state width="1400" height="482" key="GridCell.Tab.0.left" timestamp="1586701317505">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="225" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586602332259" />
+    <state width="1400" height="482" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586701317505" />
     <state width="1400" height="290" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1586188749630" />
-    <state width="1400" height="225" key="GridCell.Tab.0.right" timestamp="1586602332261">
+    <state width="1400" height="482" key="GridCell.Tab.0.right" timestamp="1586701317506">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="225" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586602332261" />
+    <state width="1400" height="482" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586701317506" />
     <state width="1400" height="290" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1586188749632" />
     <state width="1400" height="304" key="GridCell.Tab.1.bottom" timestamp="1586084036124">
       <screen x="0" y="23" width="1440" height="801" />
