@@ -70,6 +70,7 @@ public class LinkedList {
 
         temp.next=null;
 
+        tail=temp;
         size--;
 
         return value;
