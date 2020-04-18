@@ -13,7 +13,9 @@ public class TreeClient {
 //        trees.display();
 //        System.out.println(trees.count());
 //        System.out.println(trees.max());
-        trees.atlevel(1);
+//        trees.atlevel(1);
+        trees.levelorder();
+
 
     }
 }

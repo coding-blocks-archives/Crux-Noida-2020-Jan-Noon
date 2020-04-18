@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb89bbc9-bced-408d-a329-685ba138dc19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec23/GenericTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec23/TreeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec24/BinaryClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec24/BinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec22/ListClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec22/ListClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec22/ListClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec22/ListClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec23/GenericTrees$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec23/GenericTrees$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec23/GenericTrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec23/GenericTrees.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec23/TreeClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec23/TreeClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec23/TreeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec23/TreeClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +44,33 @@
       <recent name="$PROJECT_DIR$/src/com/company/Lec16ll" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TreeClient">
+  <component name="RunManager" selected="Application.BinaryClient">
+    <configuration name="BinaryClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec24.BinaryClient" />
+      <module name="Crux-Noida-2020-Jan-Noon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Lec24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leapyear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec3.Leapyear" />
+      <module name="Crux-Noida-2020-Jan-Noon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Lec3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Lec22.ListClient" />
       <module name="Crux-Noida-2020-Jan-Noon" />
@@ -54,38 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec21.ListClient" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec3.Main" />
       <module name="Crux-Noida-2020-Jan-Noon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec21.QueueClient" />
-      <module name="Crux-Noida-2020-Jan-Noon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Lec21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec21.StackClient" />
-      <module name="Crux-Noida-2020-Jan-Noon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Lec21.*" />
+          <option name="PATTERN" value="com.company.Lec3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryClient" />
+        <item itemvalue="Application.Leapyear" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TreeClient" />
         <item itemvalue="Application.ListClient (1)" />
-        <item itemvalue="Application.QueueClient" />
-        <item itemvalue="Application.StackClient" />
-        <item itemvalue="Application.ListClient" />
       </list>
     </recent_temporary>
   </component>
@@ -134,30 +138,34 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="398" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.801@0.23.1440.801" timestamp="1584298165701" />
-    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1587045999411">
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1587213121555">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1587045999411" />
-    <state width="1400" height="443" key="GridCell.Tab.0.bottom" timestamp="1587051592363">
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1587213121555" />
+    <state width="1400" height="2" key="GridCell.Tab.0.bottom" timestamp="1587214506640">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="443" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587051592363" />
-    <state width="1400" height="284" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1586975661180" />
-    <state width="1400" height="443" key="GridCell.Tab.0.center" timestamp="1587051592362">
+    <state width="1400" height="2" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587214506640" />
+    <state width="1400" height="443" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1587060726095" />
+    <state width="1400" height="443" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1587052933525" />
+    <state width="1400" height="2" key="GridCell.Tab.0.center" timestamp="1587214506639">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="443" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587051592362" />
-    <state width="1400" height="284" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1586975661179" />
-    <state width="1400" height="443" key="GridCell.Tab.0.left" timestamp="1587051592361">
+    <state width="1400" height="2" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587214506639" />
+    <state width="1400" height="443" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1587060726093" />
+    <state width="1400" height="443" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1587052933525" />
+    <state width="1400" height="2" key="GridCell.Tab.0.left" timestamp="1587214506638">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="443" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587051592361" />
-    <state width="1400" height="284" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1586975661178" />
-    <state width="1400" height="443" key="GridCell.Tab.0.right" timestamp="1587051592362">
+    <state width="1400" height="2" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587214506638" />
+    <state width="1400" height="443" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1587060726092" />
+    <state width="1400" height="443" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1587052933524" />
+    <state width="1400" height="2" key="GridCell.Tab.0.right" timestamp="1587214506639">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="443" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587051592362" />
-    <state width="1400" height="284" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1586975661179" />
+    <state width="1400" height="2" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587214506639" />
+    <state width="1400" height="443" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1587060726094" />
+    <state width="1400" height="443" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1587052933525" />
     <state width="1400" height="304" key="GridCell.Tab.1.bottom" timestamp="1586084036124">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
@@ -178,9 +186,13 @@
     </state>
     <state width="1400" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586000628506" />
     <state width="1400" height="304" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1586084036123" />
-    <state x="387" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1586975703513">
+    <state x="387" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1587130053407">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="387" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1586975703513" />
+    <state x="387" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587130053407" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1587130108348">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1587130108348" />
   </component>
 </project>
