@@ -76,6 +76,43 @@ public class BinaryTree {
         return 1+Math.max(height(node.left),height(node.right));
     }
 
+    public boolean find(int value){
+        return find(root,value);
+    }
+
+    private boolean find(Node node,int value) {
+
+        if(node==null){
+            return false;
+        }
+
+        if(node.value==value){
+            return true;
+        }
+
+
+        return find(node.left,value) || find(node.right,value);
+    }
+
+    public int diameter(){
+        return diameter(root);
+    }
+
+    private int diameter(Node node) {
+
+        if(node==null){
+            return 0;
+        }
+
+        int current= 1+height(node.left)+height(node.right);
+
+        int max = Math.max(diameter(node.left),diameter(node.right));
+
+        return Math.max(max,current);
+
+    }
+
+
 
     class Node{
 
