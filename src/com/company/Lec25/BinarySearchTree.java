@@ -136,7 +136,7 @@ public class BinarySearchTree {
             }
 
             if(temp.right!=null){
-                queue.add(temp);
+                queue.add(temp.right);
             }
         }
     }
