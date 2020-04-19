@@ -1,5 +1,6 @@
 package com.company.Lec25;
 
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -27,6 +28,45 @@ public class BinarySearchTree {
         }
 
         return node;
+    }
+
+    public void makefromprein(int[] pre, int[] in){
+
+        this.root = makefromprein(root,pre,in);
+    }
+
+    private Node makefromprein(Node node, int[] pre, int[] in) {
+
+        if(in.length==0){
+            return null;
+        }
+
+        int val= pre[0];
+        int index = find(in,val);
+
+        int[] pre_left= Arrays.copyOfRange(pre, 1, index+1);
+        int[] pre_right=Arrays.copyOfRange(pre,index+1,pre.length);
+
+        int[] in_left = Arrays.copyOfRange(in,0,index);
+        int[] in_right= Arrays.copyOfRange(in,index+1,in.length);
+
+        Node node1 = new Node(val);
+
+        node1.left= makefromprein(node1.left,pre_left,in_left);
+        node1.right=makefromprein(node1.right,pre_right,in_right);
+
+        return node1;
+    }
+
+    private int find(int[] in, int val) {
+
+        for (int i = 0; i <in.length ; i++) {
+
+            if(in[i]==val){
+                return i;
+            }
+        }
+        return -1;
     }
 
     public void display(){
@@ -106,7 +146,7 @@ public class BinarySearchTree {
 
     }
 
-    public void makefromsorted(int ar[], int start, int end){
+    public void makefromsorted(int[] ar, int start, int end){
 
         if(start>end){
             return;
@@ -118,6 +158,10 @@ public class BinarySearchTree {
 
         makefromsorted(ar,start,mid-1);
         makefromsorted(ar,mid+1,end);
+    }
+
+    public void leveorder(){
+        levelorder(root);
     }
 
     public void levelorder(Node node){
@@ -140,6 +184,8 @@ public class BinarySearchTree {
             }
         }
     }
+
+
 
     class Node{
 
