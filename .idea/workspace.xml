@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb89bbc9-bced-408d-a329-685ba138dc19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec25/BSTclient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec25/BinarySearchTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec24/BinaryClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec24/BinaryClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec24/BinaryTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec24/BinaryTree$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec24/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec24/BinaryTree.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Lec24/BinaryClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec24/BinaryClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec24/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec24/BinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,20 @@
       <recent name="$PROJECT_DIR$/src/com/company/Lec16ll" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryClient">
+  <component name="RunManager" selected="Application.BSTclient">
+    <configuration name="BSTclient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec25.BSTclient" />
+      <module name="Crux-Noida-2020-Jan-Noon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Lec25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BinaryClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Lec24.BinaryClient" />
       <module name="Crux-Noida-2020-Jan-Noon" />
@@ -61,19 +73,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.Lec3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec22.ListClient" />
-      <module name="Crux-Noida-2020-Jan-Noon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Lec22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BSTclient" />
         <item itemvalue="Application.BinaryClient" />
         <item itemvalue="Application.Leapyear" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TreeClient" />
-        <item itemvalue="Application.ListClient (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -139,28 +138,28 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1587213121555" />
-    <state width="1400" height="464" key="GridCell.Tab.0.bottom" timestamp="1587217607670">
+    <state width="1400" height="464" key="GridCell.Tab.0.bottom" timestamp="1587301648107">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="464" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587217607670" />
+    <state width="1400" height="464" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587301648107" />
     <state width="1400" height="443" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1587060726095" />
     <state width="1400" height="443" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1587052933525" />
-    <state width="1400" height="464" key="GridCell.Tab.0.center" timestamp="1587217607669">
+    <state width="1400" height="464" key="GridCell.Tab.0.center" timestamp="1587301648105">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="464" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587217607669" />
+    <state width="1400" height="464" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587301648105" />
     <state width="1400" height="443" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1587060726093" />
     <state width="1400" height="443" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1587052933525" />
-    <state width="1400" height="464" key="GridCell.Tab.0.left" timestamp="1587217607668">
+    <state width="1400" height="464" key="GridCell.Tab.0.left" timestamp="1587301648104">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="464" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587217607668" />
+    <state width="1400" height="464" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587301648104" />
     <state width="1400" height="443" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1587060726092" />
     <state width="1400" height="443" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1587052933524" />
-    <state width="1400" height="464" key="GridCell.Tab.0.right" timestamp="1587217607669">
+    <state width="1400" height="464" key="GridCell.Tab.0.right" timestamp="1587301648106">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="464" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587217607669" />
+    <state width="1400" height="464" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587301648106" />
     <state width="1400" height="443" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1587060726094" />
     <state width="1400" height="443" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1587052933525" />
     <state width="1400" height="304" key="GridCell.Tab.1.bottom" timestamp="1586084036124">
@@ -183,10 +182,10 @@
     </state>
     <state width="1400" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586000628506" />
     <state width="1400" height="304" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1586084036123" />
-    <state x="387" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1587130053407">
+    <state x="387" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1587276618281">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="387" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587130053407" />
+    <state x="387" y="276" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587276618281" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1587130108348">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
