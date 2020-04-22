@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class BinarySearchTree {
+public class BinarySearchTree<T> {
 
   private Node root;
 

@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb89bbc9-bced-408d-a329-685ba138dc19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec26/HeapClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec26/Heaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec25/GenericBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec26/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec26/ManushClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec25/BSTclient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec25/BSTclient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec25/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec25/BinarySearchTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec25/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec25/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec26/Heaps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec26/Heaps.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Lec25/BSTclient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec25/BSTclient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec25/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec25/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec26/Heaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec26/Heaps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +42,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/Lec16ll" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.Lec25" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/company/Lec16ll" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HeapClient">
+  <component name="RunManager" selected="Application.ManushClient">
     <configuration name="BSTclient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Lec25.BSTclient" />
       <module name="Crux-Noida-2020-Jan-Noon" />
@@ -93,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec3.Main" />
+    <configuration name="ManushClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec26.ManushClient" />
       <module name="Crux-Noida-2020-Jan-Noon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec3.*" />
+          <option name="PATTERN" value="com.company.Lec26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HeapClient" />
+        <item itemvalue="Application.ManushClient" />
         <item itemvalue="Application.BSTclient" />
+        <item itemvalue="Application.HeapClient" />
         <item itemvalue="Application.BinaryClient" />
         <item itemvalue="Application.Leapyear" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -134,36 +143,36 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="398" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.801@0.23.1440.801" timestamp="1584298165701" />
-    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1587213121555">
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1587571055895">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1587213121555" />
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1587571055895" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1587367640352">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.806@0.23.1440.806" timestamp="1587367640352" />
-    <state width="1400" height="464" key="GridCell.Tab.0.bottom" timestamp="1587568822153">
+    <state width="1400" height="464" key="GridCell.Tab.0.bottom" timestamp="1587571257383">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="464" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587568822153" />
+    <state width="1400" height="464" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587571257383" />
     <state width="1400" height="443" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1587060726095" />
     <state width="1400" height="443" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1587052933525" />
-    <state width="1400" height="464" key="GridCell.Tab.0.center" timestamp="1587568822150">
+    <state width="1400" height="464" key="GridCell.Tab.0.center" timestamp="1587571257381">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="464" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587568822150" />
+    <state width="1400" height="464" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587571257381" />
     <state width="1400" height="443" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1587060726093" />
     <state width="1400" height="443" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1587052933525" />
-    <state width="1400" height="464" key="GridCell.Tab.0.left" timestamp="1587568822149">
+    <state width="1400" height="464" key="GridCell.Tab.0.left" timestamp="1587571257380">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="464" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587568822149" />
+    <state width="1400" height="464" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587571257380" />
     <state width="1400" height="443" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1587060726092" />
     <state width="1400" height="443" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1587052933524" />
-    <state width="1400" height="464" key="GridCell.Tab.0.right" timestamp="1587568822152">
+    <state width="1400" height="464" key="GridCell.Tab.0.right" timestamp="1587571257382">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="464" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587568822152" />
+    <state width="1400" height="464" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587571257382" />
     <state width="1400" height="443" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1587060726094" />
     <state width="1400" height="443" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1587052933525" />
     <state width="1400" height="304" key="GridCell.Tab.1.bottom" timestamp="1586084036124">
