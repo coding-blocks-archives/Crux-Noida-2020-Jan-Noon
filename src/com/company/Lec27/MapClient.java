@@ -4,7 +4,7 @@ public class MapClient {
 
     public static void main(String[] args) {
 
-        HashMapArray map =new HashMapArray();
+        MapusingAL<String,String> map = new MapusingAL<>();
         map.put("apple", "mast he");
         map.put("mango", "bekaar he");
         map.put("grapes", "khatte he");
@@ -13,7 +13,8 @@ public class MapClient {
         System.out.println(map.get("mango"));
         System.out.println(map.get("grapes"));
 
-        System.out.println(map);
+     map.remove("apple");
+        System.out.println(map.get("apple"));
 
     }
 }
