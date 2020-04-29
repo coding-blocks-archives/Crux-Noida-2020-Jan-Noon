@@ -119,6 +119,56 @@ public class GraphpusingAdjacencyList<T> {
         }
     }
 
+    public boolean bipartite(){
+
+        Queue<Vertex> queue = new LinkedList<>();
+        Set<Vertex> visited= new HashSet<>();
+
+        Vertex vertex = vertices.get(0);
+
+        Set<Vertex> green = new HashSet<>();
+        Set<Vertex> red = new HashSet<>();
+
+        visited.add(vertex);
+        queue.add(vertex);
+        red.add(vertex);
+
+        while(!queue.isEmpty()){
+
+            Vertex temp = queue.remove();
+
+            if(red.contains(temp)){
+
+                for (Vertex padosi: temp.neighbours) {
+
+                    if(!visited.contains(padosi)){
+                        visited.add(padosi);
+                        green.add(padosi);
+                        queue.add(padosi);
+                    }
+                    else if(red.contains(padosi)){
+                        return false;
+                    }
+                }
+            }
+            if(green.contains(temp)){
+
+                for (Vertex padosi: temp.neighbours) {
+
+                    if(!visited.contains(padosi)){
+                        visited.add(padosi);
+                        red.add(padosi);
+                        queue.add(padosi);
+                    }
+                    else if(green.contains(padosi)){
+                        return false;
+                    }
+                }
+            }
+        }
+        return true;
+    }
+
     public void display(){
 
         for (Vertex vertex:vertices) {

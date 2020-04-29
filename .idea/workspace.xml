@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb89bbc9-bced-408d-a329-685ba138dc19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec28/GrapgClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec28/GraphpusingAdjacencyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec29/AdjacenyMapGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Lec29/MapClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lec27/MapusingAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec27/MapusingAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec28/GraphpusingAdjacencyList$Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec28/GraphpusingAdjacencyList$Vertex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec28/GraphpusingAdjacencyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2020-Jan-Noon/com/company/Lec28/GraphpusingAdjacencyList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec28/GraphpusingAdjacencyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec28/GraphpusingAdjacencyList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec4/Pattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,7 @@
       <recent name="$PROJECT_DIR$/src/com/company/Lec16ll" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GrapgClient">
+  <component name="RunManager" selected="Application.MapClient (1)">
     <configuration name="GrapgClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Lec28.GrapgClient" />
       <module name="Crux-Noida-2020-Jan-Noon" />
@@ -82,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManushClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec26.ManushClient" />
+    <configuration name="MapClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec29.MapClient" />
       <module name="Crux-Noida-2020-Jan-Noon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec26.*" />
+          <option name="PATTERN" value="com.company.Lec29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapClient (1)" />
         <item itemvalue="Application.GrapgClient" />
         <item itemvalue="Application.MapClient" />
         <item itemvalue="Application.HashMapArray" />
         <item itemvalue="Application.HashMapsEg" />
-        <item itemvalue="Application.ManushClient" />
       </list>
     </recent_temporary>
   </component>
@@ -136,42 +138,43 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="398" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.801@0.23.1440.801" timestamp="1584298165701" />
-    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1587906276445">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="533" y="178" key="#com.intellij.ide.util.MemberChooser" timestamp="1588164515174">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1587906276445" />
+    <state x="533" y="178" key="#com.intellij.ide.util.MemberChooser/0.23.1440.801@0.23.1440.801" timestamp="1588164515174" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1587367640352">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.806@0.23.1440.806" timestamp="1587367640352" />
-    <state width="1400" height="376" key="GridCell.Tab.0.bottom" timestamp="1587908709388">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1400" height="315" key="GridCell.Tab.0.bottom" timestamp="1588165505754">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1400" height="376" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587908709388" />
+    <state width="1400" height="376" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587989189118" />
     <state width="1400" height="164" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1587892638326" />
-    <state width="1400" height="443" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1587060726095" />
-    <state width="1400" height="443" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1587052933525" />
-    <state width="1400" height="376" key="GridCell.Tab.0.center" timestamp="1587908709386">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1400" height="315" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1588162010451" />
+    <state width="1400" height="315" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1588165505754" />
+    <state width="1400" height="315" key="GridCell.Tab.0.center" timestamp="1588165505753">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1400" height="376" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587908709386" />
+    <state width="1400" height="376" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587989189116" />
     <state width="1400" height="164" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1587892638325" />
-    <state width="1400" height="443" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1587060726093" />
-    <state width="1400" height="443" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1587052933525" />
-    <state width="1400" height="376" key="GridCell.Tab.0.left" timestamp="1587908709385">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1400" height="315" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1588162010450" />
+    <state width="1400" height="315" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1588165505753" />
+    <state width="1400" height="315" key="GridCell.Tab.0.left" timestamp="1588165505752">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1400" height="376" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587908709385" />
+    <state width="1400" height="376" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587989189116" />
     <state width="1400" height="164" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1587892638324" />
-    <state width="1400" height="443" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1587060726092" />
-    <state width="1400" height="443" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1587052933524" />
-    <state width="1400" height="376" key="GridCell.Tab.0.right" timestamp="1587908709387">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1400" height="315" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1588162010450" />
+    <state width="1400" height="315" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1588165505752" />
+    <state width="1400" height="315" key="GridCell.Tab.0.right" timestamp="1588165505753">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1400" height="376" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587908709387" />
+    <state width="1400" height="376" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587989189117" />
     <state width="1400" height="164" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1587892638325" />
-    <state width="1400" height="443" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1587060726094" />
-    <state width="1400" height="443" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1587052933525" />
+    <state width="1400" height="315" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1588162010451" />
+    <state width="1400" height="315" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1588165505753" />
     <state width="1400" height="304" key="GridCell.Tab.1.bottom" timestamp="1586084036124">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
